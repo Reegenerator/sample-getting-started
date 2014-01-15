@@ -35,7 +35,3 @@ foreach (var dayElement in _xdoc.Root.Elements("Day")) {
 %>
 	}
 }
-
-<%@ Method Name="Test"  %>
-test
-<%/ Method %>
