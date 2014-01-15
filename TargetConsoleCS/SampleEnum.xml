@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<Days ClassName="SampleClass" FirstValue="2">
+<Days ClassName="SampleClass" FirstValue="1">
   <Day>Sat</Day>
   <Day>Sun</Day>
   <Day>Mon</Day>
