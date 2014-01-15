@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Days ClassName="SampleClass" FirstValue="2">
+  <Day>Sat</Day>
+  <Day>Sun</Day>
+  <Day>Mon</Day>
+  <Day>Tue</Day>
+  <Day>Wed</Day>
+  <Day>Thu</Day>
+  <Day>Fri</Day>
+</Days>
